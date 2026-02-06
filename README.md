@@ -31,7 +31,7 @@
 > **Wang, Y., et al. (2025).**  
 > *Artificial intelligence using a latent diffusion model enables the generation of diverse and potent antimicrobial peptides.*  
 > **Science Advances**, 11(6): eadp7171
-- [Antimicrobial Peptides Review (PMC11797553)]([https://pmc.ncbi.nlm.nih.gov/articles/PMC11797553/](https://pmc.ncbi.nlm.nih.gov/articles/PMC11797553/?fbclid=IwY2xjawPu841leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEeanwrycynuSPi7Sc4d1J0eT7hIL0VifhIGm7zsdm-8cT4fTAD-FFSBn_QobQ_aem_IyIzl1-8XGZfwbGeP0v2qw#sec11))
+- [Antimicrobial Peptides Review (PMC11797553)](https://pmc.ncbi.nlm.nih.gov/articles/PMC11797553/?fbclid=IwY2xjawPu841leHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEeanwrycynuSPi7Sc4d1J0eT7hIL0VifhIGm7zsdm-8cT4fTAD-FFSBn_QobQ_aem_IyIzl1-8XGZfwbGeP0v2qw#sec11)
 
 ---
 
